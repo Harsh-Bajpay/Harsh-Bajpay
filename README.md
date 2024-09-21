@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 🔭 I’m currently working on Improving my ##data analytics skills and completing my final-year projects in data science.
+- 🔭 I’m currently working on Improving my # data analytics skills and completing my final-year projects in data science.
 - 🌱 I’m looking to collaborate on Data science and analytics projects, especially those that involve machine learning or cloud-based services.
 - 👯 I’m looking for help with Guidance on optimizing my machine learning models and tips on deploying AI services with Docker containers.
 - 🤔 I’m currently learning Data analytics and Azure AI services.
